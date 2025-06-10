@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **Web Technologies**
+- 🌱 I’m currently onto some **Web Technologies** what about you?
 
 - 📫 How to reach me **matt@run.com.na**
 
