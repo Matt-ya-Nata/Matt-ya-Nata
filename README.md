@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently onto some **AI & Web Technologies** what about you?
+- I’m currently onto some **AI & Web Technologies** what about you?
 
 - 📫 How to reach me **matt@run.com.na**
 
