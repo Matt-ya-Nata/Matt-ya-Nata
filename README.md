@@ -14,7 +14,7 @@
 
 - I’m currently onto some **AI & Web Technologies** what about you?
 
-- 📫 How to reach me **matt@run.com.na**
+- 📫 Mail me: **matt@run.com.na**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
